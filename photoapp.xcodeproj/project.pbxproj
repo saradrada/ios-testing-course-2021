@@ -15,6 +15,7 @@
 		6C08EFE4265807F7008EE6DD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C08EFB9265807F4008EE6DD /* ContentView.swift */; };
 		6C08EFE5265807F7008EE6DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C08EFBA265807F7008EE6DD /* Assets.xcassets */; };
 		6C08EFE6265807F7008EE6DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C08EFBA265807F7008EE6DD /* Assets.xcassets */; };
+		6C08EFF626580A30008EE6DD /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 6C08EFF526580A30008EE6DD /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6C08EFDA265807F7008EE6DD /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C08EFDE265807F7008EE6DD /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		6C08EFE0265807F7008EE6DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6C08EFF526580A30008EE6DD /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 		6C08EFB2265807F4008EE6DD = {
 			isa = PBXGroup;
 			children = (
+				6C08EFF526580A30008EE6DD /* .gitignore */,
 				6C08EFB7265807F4008EE6DD /* Shared */,
 				6C08EFC1265807F7008EE6DD /* iOS */,
 				6C08EFC8265807F7008EE6DD /* macOS */,
@@ -275,6 +278,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C08EFF626580A30008EE6DD /* .gitignore in Resources */,
 				6C08EFE5265807F7008EE6DD /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
