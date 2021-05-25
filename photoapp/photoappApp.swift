@@ -1,8 +1,8 @@
 //
 //  photoappApp.swift
-//  Shared
+//  photoapp
 //
-//  Created by Sara Ortiz Drada on 21/05/21.
+//  Created by Sara Ortiz Drada on 24/05/21.
 //
 
 import SwiftUI
